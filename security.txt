@@ -1,0 +1,4 @@
+Contact: evcjournalismclub@gmail.com
+Expires: 2024-06-01T00:00:00.000Z
+Preferred-Languages: en
+Canonical: https://evc-journalism-club.github.io/website/security.txt

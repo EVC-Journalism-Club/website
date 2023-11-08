@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://evc-journalism-club.github.io/website/sitemap.xml

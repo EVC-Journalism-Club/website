@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>EVC Newspaper</title>
+    <link href="https://evc-journalism-club.github.io/website/feed.xml" rel="self" />
+    <link href="https://evc-journalism-club.github.io/website" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>EVC Journalism Club</name>
+    </author>
+    <id>https://evc-journalism-club.github.io/website</id>
+
+</feed>

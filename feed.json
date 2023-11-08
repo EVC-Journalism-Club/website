@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "EVC Newspaper",
+    "description": "",
+    "home_page_url": "https://evc-journalism-club.github.io/website",
+    "feed_url": "https://evc-journalism-club.github.io/website/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "EVC Journalism Club"
+    },
+    "items": [
+    ]
+}
