@@ -9,5 +9,19 @@
         "name": "EVC Journalism Club"
     },
     "items": [
+        {
+            "id": "https://evc-journalism-club.github.io/website/test/",
+            "url": "https://evc-journalism-club.github.io/website/test/",
+            "title": "test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "EVC Journalism Club"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-08T12:59:45-08:00",
+            "date_modified": "2023-11-08T12:59:45-08:00"
+        }
     ]
 }
